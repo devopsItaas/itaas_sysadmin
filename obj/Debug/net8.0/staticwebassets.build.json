@@ -1,11 +1,1 @@
-{
-  "Version": 1,
-  "Hash": "H4v9zdOjIOLDr1e35ssREnJ3QXTTGQuXOKLHeWW4Ngo=",
-  "Source": "SysAdmin_Inventario",
-  "BasePath": "_content/SysAdmin_Inventario",
-  "Mode": "Default",
-  "ManifestType": "Build",
-  "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
-}
+{"Version":1,"Hash":"4REeZ2JXBs9xGrL2yzZw8AG4snwA9mlL1FE07i9G9Ys=","Source":"SysAdmin_Inventario","BasePath":"_content/SysAdmin_Inventario","Mode":"Default","ManifestType":"Build","ReferencedProjectsConfiguration":[],"DiscoveryPatterns":[],"Assets":[],"Endpoints":[]}

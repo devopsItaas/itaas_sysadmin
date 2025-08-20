@@ -15,6 +15,7 @@ builder.Services.AddScoped<Data.EntityRepository>();
 builder.Services.AddScoped<Services.EntityService>();
 builder.Services.AddScoped<Data.PersonasRepository>();
 builder.Services.AddScoped<Services.PersonasService>();
+builder.Services.AddScoped<EmailService>();
 
 var app = builder.Build();
 
