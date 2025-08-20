@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Monitoreo\\Desktop\\.NET\\repos\\SysadminInventario\\SysAdmin_Inventario\\SysAdmin_Inventario.csproj": {}
+    "C:\\Users\\Monitoreo\\Desktop\\.NET\\repos\\SysadminInventario\\itaas_sysadmin\\SysAdmin_Inventario.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Monitoreo\\Desktop\\.NET\\repos\\SysadminInventario\\SysAdmin_Inventario\\SysAdmin_Inventario.csproj": {
+    "C:\\Users\\Monitoreo\\Desktop\\.NET\\repos\\SysadminInventario\\itaas_sysadmin\\SysAdmin_Inventario.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Monitoreo\\Desktop\\.NET\\repos\\SysadminInventario\\SysAdmin_Inventario\\SysAdmin_Inventario.csproj",
+        "projectUniqueName": "C:\\Users\\Monitoreo\\Desktop\\.NET\\repos\\SysadminInventario\\itaas_sysadmin\\SysAdmin_Inventario.csproj",
         "projectName": "SysAdmin_Inventario",
-        "projectPath": "C:\\Users\\Monitoreo\\Desktop\\.NET\\repos\\SysadminInventario\\SysAdmin_Inventario\\SysAdmin_Inventario.csproj",
+        "projectPath": "C:\\Users\\Monitoreo\\Desktop\\.NET\\repos\\SysadminInventario\\itaas_sysadmin\\SysAdmin_Inventario.csproj",
         "packagesPath": "C:\\Users\\Monitoreo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Monitoreo\\Desktop\\.NET\\repos\\SysadminInventario\\SysAdmin_Inventario\\obj\\",
+        "outputPath": "C:\\Users\\Monitoreo\\Desktop\\.NET\\repos\\SysadminInventario\\itaas_sysadmin\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Monitoreo\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -46,6 +46,10 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[8.0.18, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[6.1.1, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",

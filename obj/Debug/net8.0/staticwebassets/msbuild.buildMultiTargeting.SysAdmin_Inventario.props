@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SysAdmin_Inventario.props" />
+</Project>
