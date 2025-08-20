@@ -13,6 +13,8 @@ builder.Services.AddSingleton<Models.Settings.IDatabaseSettings, Models.Settings
 // Registro de Repository y Service para el recurso (cámbialos/duplica por cada entidad)
 builder.Services.AddScoped<Data.EntityRepository>();
 builder.Services.AddScoped<Services.EntityService>();
+builder.Services.AddScoped<Data.PersonasRepository>();
+builder.Services.AddScoped<Services.PersonasService>();
 
 var app = builder.Build();
 
